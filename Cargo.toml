@@ -1,0 +1,10 @@
+# Cargo.toml
+[package]
+name = "terminal_clock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.27"
+time-format = "1.2.1"
+figlet-rs = "0.1"
